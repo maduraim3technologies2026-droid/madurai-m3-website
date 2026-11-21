@@ -1,0 +1,22 @@
+{
+  "name": "madurai-m3-technologies-website",
+  "version": "1.0.0",
+  "description": "Official production website for MADURAI M3 TECHNOLOGIES - Software Development & IT Services, Madurai, Tamil Nadu, India",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve . -l 3000",
+    "start": "npx -y serve . -l 3000",
+    "preview": "npx -y serve ."
+  },
+  "keywords": [
+    "madurai",
+    "software-development",
+    "flutter",
+    "android",
+    "ios",
+    "it-services",
+    "cloudflare-pages"
+  ],
+  "author": "MADURAI M3 TECHNOLOGIES <admin@maduraim3technologies.com>",
+  "license": "UNLICENSED"
+}

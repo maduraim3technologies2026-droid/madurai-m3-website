@@ -1,0 +1,8 @@
+# robots.txt for MADURAI M3 TECHNOLOGIES
+# Website: https://maduraim3technologies.com/
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://maduraim3technologies.com/sitemap.xml
