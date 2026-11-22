@@ -1,3 +1,4 @@
-# Cloudflare 301 Aliases
+/                   /index.html             200
+/index              /index.html             200
 /solutions          /portfolio.html         301
 /terms-conditions   /terms.html             301
