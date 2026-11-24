@@ -39,14 +39,14 @@
   <!-- Typography -->
   <g transform="translate(76, 24)">
     <!-- Primary Name -->
-    <text x="0" y="8" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="16" letter-spacing="1.5" fill="#FFFFFF">
+    <text x="0" y="8" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="16" letter-spacing="1.5" fill="#0F172A">
       MADURAI <tspan fill="#F97316">M3</tspan>
     </text>
-    <text x="0" y="26" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="12" letter-spacing="2.8" fill="#E2E8F0">
+    <text x="0" y="26" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="12" letter-spacing="2.8" fill="#334155">
       TECHNOLOGIES
     </text>
     <!-- Tagline & Origin Pill -->
-    <text x="0" y="39" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="8.5" letter-spacing="1.2" fill="#94A3B8">
+    <text x="0" y="39" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="8.5" letter-spacing="1.2" fill="#64748B">
       SOFTWARE &amp; IT SERVICES • MADURAI
     </text>
   </g>
